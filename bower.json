@@ -1,0 +1,7 @@
+{
+  "name": "browserify-shim-issue",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.2.21"
+  }
+}
