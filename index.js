@@ -1,6 +1,6 @@
 'use strict';
 
-var angular = require('angular');
+require('angular');
 
 console.log(angular);
 angular.module('test');
